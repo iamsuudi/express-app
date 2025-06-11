@@ -1,0 +1,5 @@
+services:
+  express-app:
+    image: iamsuudi/express-app
+    ports:
+      - 8080:8080
